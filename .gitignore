@@ -1,7 +1,6 @@
 *.class
 bin
 gen
-.project
 .classpath
 
 # Package Files #
