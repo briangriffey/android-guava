@@ -1,7 +1,7 @@
 *.class
 bin
 gen
-.classpath
+#.classpath
 
 # Package Files #
 *.jar
