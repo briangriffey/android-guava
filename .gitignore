@@ -7,3 +7,13 @@ gen
 *.jar
 *.war
 *.ear
+
+.settings
+.project
+.iml
+.idea
+android-guava.iml
+
+.DS_Store
+
+target
